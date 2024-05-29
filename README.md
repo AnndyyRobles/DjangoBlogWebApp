@@ -46,4 +46,4 @@ Deleting Posts: Go to a post and click "Delete".
 Commenting: Enter a post and submit a comment.
 
 ## Acknowledgments
-Developed by [Your Name].
+Developed by Andres Rodriguez.
