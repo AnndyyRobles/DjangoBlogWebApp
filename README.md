@@ -1,7 +1,8 @@
 # My Blog
+![principal](https://github.com/AnndyyRobles/DjangoBlogWebApp/blob/main/imgs/img1.jpg)
 ## Overview
 My Blog is a web application built with Django, designed for creating and managing blog posts. Users can register, log in, create, edit, and delete posts, as well as comment on them. The application uses PostgreSQL for database management and emphasizes security and responsive design.
-
+![principal](https://github.com/AnndyyRobles/DjangoBlogWebApp/blob/main/imgs/img2.jpg)
 ## Features
 User Authentication: Register, log in, and log out securely.
 Post Management: Create, edit, delete, and view blog posts.
